@@ -1,0 +1,6 @@
+framework module FDLib {
+  umbrella header "FDLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

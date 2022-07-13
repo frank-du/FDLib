@@ -1,0 +1,22 @@
+{
+  "name": "FDLib",
+  "version": "0.1.0",
+  "summary": "A short description of FDLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/frank-du/FDLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "frank-du": "frank.du@transsnet.com"
+  },
+  "source": {
+    "git": "https://github.com/frank-du/FDLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FDLib/Classes/**/*"
+}
